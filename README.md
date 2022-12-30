@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [Daff Zihni Zafari]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[Introducing my name is Daffa zihni zafari usually called daffa, I am an IT student at a vocational high school in Indonesia]
 
-[✍️ Tell us why you started this challenge]
+[ am very challenged to try this challenge, whether I am proficient in the field of cloud within 100 days or even before 100 days no one knows for sure I will struggle]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[My final goal is to master all knowledge in IT including in the Cloud field as well]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/panggilajadappa)
+- [✍️ Link to your LinkedIn](inkedin.com/in/daffa-zihni-057258249/)
 
 ## Stepping out the door
 
