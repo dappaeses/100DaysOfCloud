@@ -4,49 +4,13 @@
 # New post title here
 
 ## Introduction
+First of all I will learn Linux before I learn the cloud
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Meet 1
+- linux fundamental
+- virtual machine fundamental
 
 ## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+his is the material that I studied on the first day. I attended meet 1 from the application and took a fundamental Linux and virtual machine fundamental course from the Aguna course
+- Linux fundamental dan meet 1 i am studying linux file hierarchy Linux file hierarchy, First of all we discuss the highest, namely the root directory which is marked with a sign (/), the second is the /bin directory which contains the required commands, the next is the /etc directory in this /etc directory for save configuration files like we want to configure network, netplan, apache2 and others. Next, there is the /usr directory, this directory is for placing files that we install like we have just installed something like that on Ubuntu, for example, it is placed in the /usr directory. Next, there is the /var directory in this directory, which contains server logs, etc. This log also functions for monitoring as well. next, there is the /bin directory, this directory contains the essential command programs needed by all users. programs here can run, even if no other filesystems are mounted. This directory has no subdirectories. next there is the /boot directory which is a directory that functions to store configuration and files related to the boot process, load the Linux Kernel and boot loader. and I also learned basic Linux commands like cp to copy, pwd to see where we are, and various types of ls like ls -al and ls -la to see hidden files and their access rights, there's more mv to rename and move files and the existing directory cd to go to another directory rm to delete the file rm -r to delete the directory that contains it
+- virtual machine fundamental I studied hypervisors where hypervisors function like applications to install virtual machines, examples of hypervisors are ESX, Oracle and others, and I will discuss virtualization, which is technology for creating virtual servers, storage and networks.
