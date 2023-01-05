@@ -22,8 +22,8 @@ Introducing my name is Daffa zihni zafari usually called daffa, I am an IT stude
 
 My final goal is to master all knowledge in IT including in the Cloud field as well
 
-- [✍️ Link to your Twitter](https://twitter.com/panggilajadappa)
-- [✍️ Link to your LinkedIn](inkedin.com/in/daffa-zihni-057258249/)
+- [ Twitter](https://twitter.com/panggilajadappa)
+- [LinkedIn](inkedin.com/in/daffa-zihni-057258249/)
 
 ## Stepping out the door
 
