@@ -1,7 +1,7 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Linux Fundamental aguna course, meet 1, virtual machine fundamental aguna course
 
 ## Introduction
 First of all I will learn Linux before I learn the cloud
