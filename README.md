@@ -14,7 +14,7 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## Daff Zihni Zafari's Cloud Journey
+## Daffa Zihni Zafari's Cloud Journey
 
 Introducing my name is Daffa zihni zafari usually called daffa, I am an IT student at a vocational high school in Indonesia
 
