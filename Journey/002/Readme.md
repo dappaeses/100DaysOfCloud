@@ -1,52 +1,21 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Routing & aws account
 
-## Introduction
+## First of all I will learn Linux before I learn the cloud
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- static routing
+- Creating AWS account
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Research
+- Static Routing
+On the second day I studied routing, especially static routing, which is how routing functions to connect between different networks, if you don't understand the fundamental network concept, please learn it first, then eventually you will understand the concept of routing. Okay continue, today I studied static routing, how did I tell you that routing functions to connect devices such as routers, it can be from any vendor, yes, static routing I implemented this routing to an application, namely GNS3 and I tried it with several routers and it was very effective For static routing itself, it has the advantage of being safer and more secure. The downside is that it is complicated, for example in large companies the routers are usually a lot more complicated when using static routing.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
+- Create aws account
+for my aws account, I was assisted by my teacher, and followed tutorials from udemy
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twit](https://twitter.com/panggilajadappa)
