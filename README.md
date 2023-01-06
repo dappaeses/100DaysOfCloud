@@ -28,7 +28,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [Linux Fundamental & creating aws account](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Creating aws account & Routing static](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Creating aws account & Routing](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
