@@ -29,7 +29,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 
 - [ ] ☁️ 1 > [Giorno-1 Linux Fundamental & creating aws account](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Giorno-2 Creating aws account & Routing](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Giorno-2 Network Fundamental & ](Journey/003/Readme.md)
+- [ ] ☁️ 3 > [Giorno-3 Network Fundamental & ](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [CCP](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
