@@ -11,6 +11,7 @@ As an AWS learning Starter, I will start with the IAM CCP Course by stephane mar
 
 ## CLoud Research
 - IAM User & Group
+
 As I know, a user is someone who joins a group, for example, user A joins the admin group, user B joins the developer group, and the group is like grouping a user.So users and groups are given JSON Documents which means policies, IAM policies as below for example
 
 {
@@ -39,6 +40,7 @@ As I know, a user is someone who joins a group, for example, user A joins the ad
 ]
 }
 - IAM Policies
+
  For example, I'm in the developer group and I get access, like editing, I see like that and that's giving group permissions and even in other groups like that. For example, the admin group is allowed access, all access is allowed to access AWS and others. Yes, that's enough, my understanding of IAM Policies. IAM Policies structure
  Consists of • Version: policy language version, always include “2012
 -10
@@ -64,6 +66,7 @@ IAM – Password Policy
 • Prevent password re-use
 
 - IAM MFA
+
 MFA : Multi Factor authentication
 
 
