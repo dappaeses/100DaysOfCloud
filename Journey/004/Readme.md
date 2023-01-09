@@ -11,7 +11,6 @@ As an AWS learning Starter, I will start with the IAM CCP Course by stephane mar
 
 ## CLoud Research
 - IAM User & Group
-
 As I know, a user is someone who joins a group, for example, user A joins the admin group, user B joins the developer group, and the group is like grouping a user.So users and groups are given JSON Documents which means policies, IAM policies as below for example
 
 {
