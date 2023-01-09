@@ -4,10 +4,14 @@
 # New post title here
 
 ## Introduction
+As an AWS learning Starter, I will start with the IAM CCP Course by stephane mareek
+- IAM Users & Groups
+- IAM Policies
+- IAM MFA
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+## CLoud Research
+- IAM User & Group
 
-## Prerequisite
 
 ✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
