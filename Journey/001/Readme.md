@@ -21,3 +21,6 @@ i am studying linux file hierarchy Linux file hierarchy, First of all we discuss
 - virtual machine fundamental 
 
 I studied hypervisors where hypervisors function like applications to install virtual machines, examples of hypervisors are ESX, Oracle and others, and I will discuss virtualization, which is technology for creating virtual servers, storage and networks.
+Hypervisor exmaple
+![image](https://user-images.githubusercontent.com/121011336/211964735-09617787-7e63-4442-9f6e-69100c88e337.png)
+
