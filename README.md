@@ -31,7 +31,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 - [ ] ☁️ 2 > [Giorno-2 Creating aws academy account & Routing](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Giorno-3 Network Fundamental  ](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Giorno-4 IAM & AWS CLI](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [Giorno-5](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [Giorno-5 aws bduget & EC2 Basics](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
