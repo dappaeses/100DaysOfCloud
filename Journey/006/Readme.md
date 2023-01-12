@@ -27,13 +27,11 @@
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
 ### Step 1 — Summary of Step
-![Screenshot_1](https://user-images.githubusercontent.com/121011336/211959033-2078f110-2015-41ba-b4d1-e43fbcbbf414.png)
 
 
 ### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
+!
 ### Step 3 — Summary of Step
 
 ![Screenshot](https://via.placeholder.com/500x300)
