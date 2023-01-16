@@ -32,7 +32,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 - [ ] ☁️ 3 > [Giorno-3 Network Fundamental  ](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Giorno-4 IAM & AWS CLI](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Giorno-5 EC2 Basics](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [Giorno-6 ](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Giorno-6 SSH ](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
