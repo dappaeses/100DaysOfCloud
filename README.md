@@ -34,15 +34,15 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 - [ ] ☁️ 5 > [Giorno-5 EC2 Basics](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Giorno-6 SSH ](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Giorno-7 Zoom 2 ](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 8 > [Giorno-8](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [Giorno-9](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Giorno-10](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 11 > [Giorno-11](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Giorno-12](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [Giorno-13](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
