@@ -8,6 +8,8 @@ EC2 Part 3
 
 ## Cloud Research
 
+##EC2 Image Builder
+
 • Used to automate the creation of Virtual Machines or container images
 
  • => Automate the creation, maintain, validate and test EC2 AMIs 
