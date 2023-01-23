@@ -5,48 +5,37 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+EBS Volume
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+What’s an EBS Volume? 
+• An EBS (Elastic Block Store) Volume is a network drive you can attach to your instances while they run • It allows your instances to persist data, even after their termination 
 
-## Try yourself
+• They can only be mounted to one instance at a time (at the CCP level)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+ • They are bound to a specific availability zone 
+ 
+• Analogy: Think of them as a “network USB stick” 
 
-### Step 1 — Summary of Step
+• Free tier: 30 GB of free EBS storage of type General Purpose (SSD) or Magnetic per month
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+EBS Volume
+• It’s a network drive (i.e. not a physical drive)
 
-![Screenshot](https://via.placeholder.com/500x300)
+  • It uses the network to communicate the instance, which means there might be a   bit of latency 
+  
+  • It can be detached from an EC2 instance and attached to another one quickly
+  
+• It’s locked to an Availability Zone (AZ)
 
-### Step 3 — Summary of Step
+  • An EBS Volume in us-east-1a cannot be attached to us-east-1b
+  
+  • To move a volume across, you first need to snapshot it
+  
+• Have a provisioned capacity (size in GBs, and IOPS)
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+  • You get billed for all the provisioned capacity 
+  
+  • You can increase the capacity of the drive over tim
