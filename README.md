@@ -41,7 +41,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 ## Walking down the road
 
 - [ ] ☁️ 11 > [Giorno-11 EBS Volume](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [Giorno-12](Journey/012/Readme.md)
+- [ ] ☁️ 12 > [Giorno-12 EBS Snapshot](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [Giorno-13](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [Giorno 14](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Giorno 15](Journey/015/Readme.md)
