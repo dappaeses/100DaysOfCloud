@@ -1,52 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
 # New post title here
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+EC2 Part 3
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+• Used to automate the creation of Virtual Machines or container images
 
-## Try yourself
+ • => Automate the creation, maintain, validate and test EC2 AMIs 
+ 
+• Can be run on a schedule (weekly, whenever packages are updated, etc…) 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• Free service (only pay for the underlying resources)
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+## EC2 Instance Store
+• EBS volumes are network drives with good but “limited” performance
 
-### Step 1 — Summary of Step
+• If you need a high-performance hardware disk, use EC2 Instance Store
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Better I/O performance
 
-### Step 3 — Summary of Step
+• EC2 Instance Store lose their storage if they’re stopped (ephemeral)
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Good for buffer / cache / scratch data / temporary content
 
-## ☁️ Cloud Outcome
+• Risk of data loss if hardware fails
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+• Backups and Replication are your responsibility
