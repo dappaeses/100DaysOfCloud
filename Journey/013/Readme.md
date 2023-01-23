@@ -1,52 +1,29 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# AMI
 
-## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
+• AMI = Amazon Machine Image 
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+• AMI are a customization of an EC2 instance
 
-## Try yourself
+	• You add your own software, configuration, operating system, monitoring…
+  
+  • Faster boot / configuration time because all your software is pre-packaged
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• AMI are built for a specific region (and can be copied across regions)
 
-### Step 1 — Summary of Step
+• You can launch EC2 instances from:
 
-![Screenshot](https://via.placeholder.com/500x300)
+  • A Public AMI: AWS provided
+  
+  • Your own AMI: you make and maintain them yourself
+ 	
+  • An AWS Marketplace AMI: an AMI someone else made (and potentially sells)
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+-ami
+![image](https://user-images.githubusercontent.com/121011336/213956122-c30e4532-e183-4423-aa46-8ff73fcd4124.png)
