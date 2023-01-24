@@ -46,8 +46,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 - [ ] ☁️ 14 > [Giorno 14 EC2 Image Builder & EC2 INSTANCE STORE](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Giorno 15 Amazon FSX & EC2 Instance Storage
  Summary](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [Giorno-16 Elastic Load Balancing & Auto
-Scaling Groups & ELB,ALB,ASG](Journey/016/Readme.md)
+- [ ] ☁️ 16 > [Giorno-16 Elastic Load Balancing & ALB,ASG](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
