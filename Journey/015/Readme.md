@@ -8,33 +8,32 @@
 • Launch 3rd party high-performance file systems on AWS
 
 • Fully managed service
+![image](https://user-images.githubusercontent.com/121011336/214195891-a5f71179-cd72-4c93-a1c7-a38378a94f51.png)
 
-## Try yourself
+### Amazon FSx for Windows File Server
+• A fully managed, highly reliable, and scalable Windows native shared file system
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• Built on Windows File Server 
 
-### Step 1 — Summary of Step
+• Supports SMB protocol & Windows NTFS
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Integrated with Microsoft Active Directory
 
-### Step 1 — Summary of Step
+• Can be accessed from AWS or your on-premise infrastructure
 
-![Screenshot](https://via.placeholder.com/500x300)
+![image](https://user-images.githubusercontent.com/121011336/214196064-d4be1c23-6a2c-44f7-bddc-f0baac429510.png)
 
-### Step 3 — Summary of Step
+### Amazon FSx for Lustre
 
-![Screenshot](https://via.placeholder.com/500x300)
+• A fully managed, high-performance, scalable file storage for High Performance Computing (HPC)
 
-## ☁️ Cloud Outcome
+• The name Lustre is derived from “Linux” and “cluster”
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+• Machine Learning, Analytics, Video Processing, Financial Modeling, …
 
-## Next Steps
+• Scales up to 100s GB/s, millions of IOPS, sub-ms latencies
 
-✍️ Describe what you think you think you want to do next.
 
-## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+
