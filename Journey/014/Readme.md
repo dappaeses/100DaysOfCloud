@@ -8,7 +8,7 @@ EC2 Part 3
 
 ## Cloud Research
 
-##EC2 Image Builder
+## EC2 Image Builder
 
 • Used to automate the creation of Virtual Machines or container images
 
@@ -17,6 +17,8 @@ EC2 Part 3
 • Can be run on a schedule (weekly, whenever packages are updated, etc…) 
 
 • Free service (only pay for the underlying resources)
+![image](https://user-images.githubusercontent.com/121011336/214193987-368cd6d7-cfd3-47f0-a48c-f935df52cba8.png)
+
 
 
 ## EC2 Instance Store
