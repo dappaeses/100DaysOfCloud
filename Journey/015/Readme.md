@@ -8,6 +8,7 @@
 • Launch 3rd party high-performance file systems on AWS
 
 • Fully managed service
+
 ![image](https://user-images.githubusercontent.com/121011336/214195891-a5f71179-cd72-4c93-a1c7-a38378a94f51.png)
 
 ### Amazon FSx for Windows File Server
