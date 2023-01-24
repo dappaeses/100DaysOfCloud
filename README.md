@@ -45,7 +45,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 - [ ] ☁️ 13 > [Giorno-13 AMI](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [Giorno 14 EC2 Image Builder & EC2 INSTANCE STORE](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Giorno 15 Amazon FSX & EC2 Instance Storage
-- Summary](Journey/015/Readme.md)
+ Summary](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
