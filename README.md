@@ -48,22 +48,22 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
  Summary](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [Giorno-16 Elastic Load Balancing & ALB,ASG](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [Giorno-17 Amazon S3 Part 1](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 18 > [Giorno-18](Journey/018/Readme.md)
+- [ ] ☁️ 19 > [Giorno-19](Journey/019/Readme.md)
+- [ ] ☁️ 20 > [Giorno-20](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 21 > [Giorno-21](Journey/021/Readme.md)
+- [ ] ☁️ 22 > [Giorno-22](Journey/022/Readme.md)
+- [ ] ☁️ 23 > [Giorno-23](Journey/023/Readme.md)
+- [ ] ☁️ 24 > [Giorno-24](Journey/024/Readme.md)
+- [ ] ☁️ 25 > [Giorno-25](Journey/025/Readme.md)
+- [ ] ☁️ 26 > [Giorno-26](Journey/026/Readme.md)
+- [ ] ☁️ 27 > [Giorno-27](Journey/027/Readme.md)
+- [ ] ☁️ 28 > [Giorno-28](Journey/028/Readme.md)
+- [ ] ☁️ 29 > [Giorno-29](Journey/029/Readme.md)
+- [ ] ☁️ 30 > [Giorno-30](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
