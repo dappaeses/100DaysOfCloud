@@ -1,52 +1,72 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
 # New post title here
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+### Amazon S3 intro
 
-## Prerequisite
+• Amazon S3 is one of the main building blocks of AWS
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+• It’s advertised as ”infinitely scaling” storage
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+• Many websites use Amazon S3 as a backbone
+
+• Many AWS services use Amazon S3 as an integration as well
+
+• We’ll have a step-by-step approach to S3
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+### Amazon S3 Use cases
+• Backup and storage 
 
-## Try yourself
+• Disaster Recovery 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• Archive
 
-### Step 1 — Summary of Step
+• Hybrid Cloud storage
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Application hosting 
 
-### Step 1 — Summary of Step
+• Media hosting 
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Data lakes & big data analytics
 
-### Step 3 — Summary of Step
+• Software delivery
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Static website
 
-## ☁️ Cloud Outcome
+### Amazon S3 - Buckets
+• Amazon S3 allows people to store objects (files) in “buckets” (directories)
+• Buckets must have a globally unique name (across all regions all accounts)
+• Buckets are defined at the region level
+• S3 looks like a global service but buckets are created in a region
+• Naming convention
+  • No uppercase, No underscore
+  • 3-63 characters long
+  • Not an IP
+  • Must start with lowercase letter or number
+  • Must NOT start with the prefix xn--
+  • Must NOT end with the suffix -s3alias
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+### Amazon S3 - Objects
+• Objects (files) have a Key
+• The key is the FULL path:
+  • s3://my-bucket/my_file.txt
+  • s3://my-bucket/my_folder1/another_folder/my_file.txt
+• The key is composed of prefix + object name
+  • s3://my-bucket/my_folder1/another_folder/my_file.txt
+• There’s no concept of “directories” within buckets
+(although the UI will trick you to think otherwise)
+• Just keys with very long names that contain slashes (“/”)
 
-## Next Steps
+### Amazon S3 – Objects (cont.)
+• Object values are the content of the body:
+  • Max. Object Size is 5TB (5000GB)
+  • If uploading more than 5GB, must use “multi-part upload”
+• Metadata (list of text key / value pairs – system or user metadata)
+• Tags (Unicode key / value pair – up to 10) – useful for security / lifecycle
+• Version ID (if versioning is enabled)
+  
 
-✍️ Describe what you think you think you want to do next.
 
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
