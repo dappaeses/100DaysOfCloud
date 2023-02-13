@@ -18,21 +18,23 @@
 
 ### S3 Bucket Policies 
 • JSON based policies
-  • Resources: buckets and objects
+
+    • Resources: buckets and objects
   
-  • Effect: Allow / Deny
+    • Effect: Allow / Deny
   
-  • Actions: Set of API to Allow or Deny
+    • Actions: Set of API to Allow or Deny
   
-  • Principal: The account or user to apply the
-    policy to
+    • Principal: The account or user to apply the
+      policy to
  
 • Use S3 bucket for policy to:
-  • Grant public access to the bucket
+
+    • Grant public access to the bucket
   
-  • Force objects to be encrypted at upload
+    • Force objects to be encrypted at upload
   
-  • Grant access to another account (Cross
+    • Grant access to another account (Cross
     Account)
    
    
