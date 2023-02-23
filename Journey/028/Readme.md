@@ -1,52 +1,48 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+### DynamoDB
 
-## Try yourself
+• Fully Managed Highly available with replication across 3 AZ
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• NoSQL database - not a relational database
 
-### Step 1 — Summary of Step
+• Scales to massive workloads, distributed “serverless” database
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Millions of requests per seconds, trillions of row, 100s of TB of storage
 
-### Step 1 — Summary of Step
+• Fast and consistent in performance
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Single-digit millisecond latency – low latency retrieval
 
-### Step 3 — Summary of Step
+• Integrated with IAM for security, authorization and administration
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Low cost and auto scaling capabilities
 
-## ☁️ Cloud Outcome
+• Standard & Infrequent Access (IA) Table Class
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+### DynamoDB – type of data
+• DynamoDB is a key/value database
+![image](https://user-images.githubusercontent.com/121011336/220812472-c24f4bf6-d707-47de-a72d-e96b2f6b695b.png)
 
-## Next Steps
+### DynamoDB Accelerator - DAX
+• Fully Managed in-memory cache for DynamoDB
 
-✍️ Describe what you think you think you want to do next.
+• 10x performance improvement – single- digit millisecond latency to microseconds latency – when accessing your DynamoDB
+tables
 
-## Social Proof
+• Secure, highly scalable & highly available
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+• Difference with ElastiCache at the CCP level: DAX is only used for and is integrated with DynamoDB, while ElastiCache can be used for other
+databases
 
-[link](link)
+### DynamoDB – Global Tables
+• Make a DynamoDB table accessible with low latency in multiple-regions
+• Active-Active replication (read/write to any AWS Region)
+![image](https://user-images.githubusercontent.com/121011336/220812686-53ad1a08-8f5f-4480-925a-2f92896e1011.png)
+
+
+
+
+
+
