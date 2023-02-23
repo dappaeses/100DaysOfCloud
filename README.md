@@ -54,7 +54,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [Giorno-21](Journey/021/Readme.md)
+- [ ] ☁️ 21 > [Giorno-21 Snow Family – Edge Computing ](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [Giorno-22](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [Giorno-23](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [Giorno-24](Journey/024/Readme.md)
