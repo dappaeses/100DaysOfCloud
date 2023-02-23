@@ -1,52 +1,89 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
 ## Cloud Research
+### Database intro
+• Storing data on disk (EFS, EBS, EC2 Instance Store, S3) can have its limits
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+• Sometimes, you want to store data in a database…
 
-## Try yourself
+• You can structure the data
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• You build indexes to efficiently query / search through the data
 
-### Step 1 — Summary of Step
+• You define relationships between your datasets
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Databases are optimized for a purpose and come with different
+features, shapes and constraints
 
-### Step 1 — Summary of Step
+### Relational Databases
+• Looks just like Excel spreadsheets, with links between them!
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Can use the SQL language to perform queries / lookups
 
-### Step 3 — Summary of Step
+![image](https://user-images.githubusercontent.com/121011336/220810176-a2574c70-a372-47d1-99b7-9fd41952d6de.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### NoSQL Databases
+• NoSQL = non-SQL = non relational databases
 
-## ☁️ Cloud Outcome
+• NoSQL databases are purpose built for specific data models and have flexible schemas for building modern applications.
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+• Benefits:
 
-## Next Steps
+    • Flexibility: easy to evolve data model
+    
+    • Scalability: designed to scale-out by using distributed clusters
+    
+    • High-performance: optimized for a specific data model
+    
+    • Highly functional: types optimized for the data model
 
-✍️ Describe what you think you think you want to do next.
+• Examples: Key-value, document, graph, in-memory, search databases
 
-## Social Proof
+### NoSQL data example: JSON
+• JSON = JavaScript Object Notation
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+• JSON is a common form of data that fits into a NoSQL model
 
-[link](link)
+• Data can be nested
+
+• Fields can change over time
+
+• Support for new types: arrays, etc…
+
+{
+"name": "John",
+"age": 30,
+"cars": [
+"Ford",
+"BMW",
+"Fiat"
+],
+"address": {
+"type": "house",
+"number": 23,
+"street": "Dream Road"
+}
+}
+
+### Databases & Shared Responsibility on AWS
+• AWS offers use to manage different databases
+
+• Benefits include:
+
+    • Quick Provisioning, High Availability, Vertical and Horizontal Scaling
+    • Automated Backup & Restore, Operations, Upgrades
+    • Operating System Patching is handled by AWS
+    • Monitoring, alerting
+
+• Note: many databases technologies could be run on EC2, but you must handle yourself the resiliency, backup, patching, high availability, fault
+tolerance, scaling… 
+
+
+
+
+
+
+
+
+
+
+
+
