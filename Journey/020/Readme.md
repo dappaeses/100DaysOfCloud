@@ -1,52 +1,78 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+#introduction
+- aws snow course udemy
+## cloud research
+### AWS Snow Family
+• Highly-secure, portable devices to collect and process data at the edge,
+  and migrate data into and out of AWS
+  
+• Data migration: Snowcone,Snowball Edge,Snowmobile
+• Edge computing: Snowcone,Snowball Edge
 
-# New post title here
+### Snowball Edge (for data transfers)
+• Physical data transport solution: move TBs or PBs of data in or out of AWS
 
-## Introduction
+• Alternative to moving data over the network (and paying network fees)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+• Pay per data transfer job • Provide block storage and Amazon S3-compatible object storage
 
-## Prerequisite
+• Snowball Edge Storage Optimized 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+  • 80 TB of HDD capacity for block volume and S3 compatible object
+    storage
 
-## Use Case
+• Snowball Edge Compute Optimized 
+  • 42 TB of HDD capacity for block volume and S3 compatible object
+    storage
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+• Use cases: large data cloud migrations, DC decommission, disaster
+recovery
 
-## Cloud Research
+### AWS Snowcone
+• Small, portable computing, anywhere, rugged & secure, withstands harsh environments
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+• Light (4.5 pounds, 2.1 kg) 
 
-## Try yourself
+• Device used for edge computing, storage, and data transfer
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• 8 TBs of usable storage
 
-### Step 1 — Summary of Step
+• Use Snowcone where Snowball does not fit (space-constrained environment)
 
-![Screenshot](https://via.placeholder.com/500x300)
+• Must provide your own battery / cables 
 
-### Step 1 — Summary of Step
+• Can be sent back to AWS offline, or connect it to internet and use AWS DataSync to send data
 
-![Screenshot](https://via.placeholder.com/500x300)
+### AWS Snowmobile
+• Transfer exabytes of data (1 EB = 1,000 PB = 1,000,000 TBs)
 
-### Step 3 — Summary of Step
+• Each Snowmobile has 100 PB of capacity (use multiple in parallel)
 
-![Screenshot](https://via.placeholder.com/500x300)
+• High security: temperature controlled, GPS, 24/7 video surveillance
 
-## ☁️ Cloud Outcome
+• Better than Snowball if you transfer more than 10 PB
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+### Snow Family – Usage Process
+1. Request Snowball devices from the AWS console for delivery
+2. Install the snowball client / AWS OpsHub on your servers
+3. Connect the snowball to your servers and copy files using the client
+4. Ship back the device when you’re done (goes to the right AWS facility)
+5. Data will be loaded into an S3 bucket
+6. Snowball is completely wiped
 
-## Next Steps
 
-✍️ Describe what you think you think you want to do next.
 
-## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+
+
+
+
+
+
+
+
+
+
+
+
+
