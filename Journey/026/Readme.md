@@ -28,6 +28,34 @@
     
 • BUT you can’t SSH into your instances
 
-### 
+### Amazon Aurora
+
+• Aurora is a proprietary technology from AWS (not open sourced)
+
+• PostgreSQL and MySQL are both supported as Aurora DB
+
+• Aurora is “AWS cloud optimized” and claims 5x performance improvement over MySQL on RDS, over 3x the performance of Postgres on RDS
+
+• Aurora storage automatically grows in increments of 10GB, up to 64 TB.
+
+• Aurora costs more than RDS (20% more) – but is more efficient
+
+• Not in the free tier
+
+### RDS Deployments: Read Replicas, Multi-AZ
+• Read Replicas:
+
+       • Scale the read workload of your DB
+       • Can create up to 5 Read Replicas
+       • Data is only written to the main DB
+       
+       ![image](https://user-images.githubusercontent.com/121011336/220811491-6f78bfb8-1859-46ef-bb10-2544a10b4286.png)
+• Multi-AZ:
+
+        • Failover in case of AZ outage (high availability)
+        • Data is only read/written to the main database
+        • Can only have 1 other AZ as failover
+![image](https://user-images.githubusercontent.com/121011336/220811544-2450fc33-9808-45a3-8b07-36b708d6ae61.png)
+
 
 
