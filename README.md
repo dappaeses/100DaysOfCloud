@@ -50,7 +50,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 - [ ] ☁️ 17 > [Giorno-17 Amazon S3 Part 1](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [Giorno-18 Amazon S3 Part 2](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [Giorno-19 Amamzon S3 Part 3](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [Giorno-20](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [Giorno-20 AWS Snow](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
