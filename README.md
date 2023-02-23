@@ -56,7 +56,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 
 - [ ] ☁️ 21 > [Giorno-21 Snow Family – Edge Computing ](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [Giorno-22 AWS OpsHub](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [Giorno-23](Journey/023/Readme.md)
+- [ ] ☁️ 23 > [Giorno-23 Hybrid Cloud for Storage ](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [Giorno-24](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [Giorno-25](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [Giorno-26](Journey/026/Readme.md)
