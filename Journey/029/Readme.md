@@ -1,52 +1,25 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Cloud Research
+## Redshift
+• Redshift is based on PostgreSQL, but it’s not used for OLTP
 
-# New post title here
+• It’s OLAP – online analytical processing (analytics and data warehousing)
 
-## Introduction
+• Load data once every hour, not every second
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+• 10x better performance than other data warehouses, scale to PBs of data
 
-## Prerequisite
+• Columnar storage of data (instead of row based)
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+• Massively Parallel Query Execution (MPP), highly available
 
-## Use Case
+• Pay as you go based on the instances provisioned
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+• Has a SQL interface for performing the queries
 
-## Cloud Research
+• BI tools such as AWS Quicksight or Tableau integrate with it
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
