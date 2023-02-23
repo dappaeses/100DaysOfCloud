@@ -60,7 +60,7 @@ My final goal is to master all knowledge in IT including in the Cloud field as w
 - [ ] ☁️ 24 > [Giorno-24 AWS Storage Gateway](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [Giorno-25 Database ](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [Giorno-26 AWS RDS](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [Giorno-27](Journey/027/Readme.md)
+- [ ] ☁️ 27 > [Giorno-27 Amazon ElastiCache  ](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [Giorno-28](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [Giorno-29](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [Giorno-30](Journey/030/Readme.md)
